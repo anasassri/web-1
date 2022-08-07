@@ -1,0 +1,109 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-transform: 0px;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+button {
+    background: transparent;
+
+    
+}
+a{
+    color:initial;
+    margin-left: 14px;
+    text-decoration: none;
+}
+body{
+    background-color: hsl(0, 0%, 98%);
+   }
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    align-items: center;
+    font-family: 'Tajawal', sans-serif;
+    
+}
+.logo{
+    margin-left: 25px;
+}
+.Features{
+    margin-right: 500px;
+    color :hsl(0, 0%, 41%) ;
+    font-family: 'Tajawal', sans-serif;
+    margin-bottom: 12px; 
+    text-transform: capitalize;
+}
+select {
+    text-transform: capitalize; 
+    
+}
+.btn{
+    margin-right: 70px;    
+}
+#reg {
+    
+    border: 1.4px solid black;
+    border-radius: 9px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 50px;
+
+}
+.tr p {
+   font-size: 18px;
+   padding-top: 30px;
+   padding-left: 140px;
+
+   
+}
+.img > img {
+    height: 500px;    
+} 
+main{
+    display: flex;
+}
+ul{
+    display: flex;
+    margin-left: 100px;
+    
+}
+li{
+    margin-left: 50px;
+    margin-top: 120px;
+    list-style: none;
+}
+li>img{
+    height: 25px;
+
+}
+.tr h1 {
+    font-size: 70px ;
+    padding-left: 140px;  
+}
+.ty{
+    padding-top: 45px;
+}
+
+#ret{
+    border: 1.4px solid black;
+    background-color: black;
+    color: white;
+    border-radius: 9px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 45px;
+    margin-left: 140px;
+
+}
+#reg:hover{
+    background-color: black;
+    color: white;
+    
+}
